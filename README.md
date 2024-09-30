@@ -1,23 +1,23 @@
-<p align="center">
+<p align="center" style="background-color: black; color: white; padding: 20px;">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Yash Hadade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center" style="color: white;">Hi 👋, I'm Yash Hadade</h1>
+<h3 align="center" style="color: white;">A passionate frontend developer from India</h3>
 
-<p align="left"> 
+<p align="left" style="color: white;"> 
   <img src="https://komarev.com/ghpvc/?username=yashhadade&label=Profile%20views&color=0e75b6&style=flat" alt="yashhadade" /> 
 </p>
 
-<p align="left"> 
+<p align="left" style="color: white;"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yashhadade" alt="yashhadade" />
   </a> 
 </p>
 
-<p align="left"> 
+<p align="left" style="color: white;"> 
   <a href="https://twitter.com/yaashh04" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yaashh04?logo=twitter&style=for-the-badge" alt="yaashh04" />
+    <img src="https://img.shields.io/twitter/follow/yaashh04?logo=twitter&style=for-the-badge&color=white" alt="yaashh04" />
   </a> 
 </p>
 
@@ -28,7 +28,7 @@
 - 💬 Ask me about **JavaScript, Java, HTML, CSS, MySQL**
 - 📫 How to reach me: **yashhadade613@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: white;">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/yaashh04" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaashh04" height="30" width="40" />
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="color: white;">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -69,14 +69,14 @@
   </a> 
 </p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashhadade&show_icons=true&locale=en&layout=compact" alt="yashhadade" />
+<p align="left" style="color: white;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashhadade&show_icons=true&locale=en&layout=compact&bg_color=black&title_color=white&text_color=white" alt="yashhadade" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashhadade&show_icons=true&locale=en" alt="yashhadade" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashhadade&show_icons=true&locale=en&bg_color=black&title_color=white&text_color=white" alt="yashhadade" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashhadade&" alt="yashhadade" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashhadade&background=black&stroke=white&ring=white&fire=red&currStreakNum=white&sideNums=white" alt="yashhadade" />
 </p>
