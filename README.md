@@ -1,4 +1,4 @@
-<p align="center" style="background-color: black; color: white; padding: 20px;">
+<p align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" width="100%">
 </p>
 
@@ -11,7 +11,7 @@
 
 <p align="left" style="color: white;"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashhadade" alt="yashhadade" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yashhadade&theme=onedark" alt="yashhadade" />
   </a> 
 </p>
 
@@ -73,7 +73,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashhadade&show_icons=true&locale=en&layout=compact&bg_color=black&title_color=white&text_color=white" alt="yashhadade" />
 </p>
 
-<p align="center">
+<p align="center" style="color: white;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashhadade&show_icons=true&locale=en&bg_color=black&title_color=white&text_color=white" alt="yashhadade" />
 </p>
 
