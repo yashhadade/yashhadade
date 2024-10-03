@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color: white;">Hi 👋, I'm Yash Hadade</h1>
-<h3 align="center" style="color: white;">A passionate frontend developer</h3>
+<h3 align="center" style="color: white;">A passionate Frontend Developer</h3>
 
 <p align="left" style="color: white;"> 
   <img src="https://komarev.com/ghpvc/?username=yashhadade&label=Profile%20views&color=0e75b6&style=flat" alt="yashhadade" /> 
