@@ -77,6 +77,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashhadade&show_icons=true&locale=en&bg_color=black&title_color=white&text_color=white" alt="yashhadade" />
 </p>
 
-//<p align="center">
-//  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashhadade&background=black&stroke=white&ring=white&fire=red&currStreakNum=white&sideNums=white" //alt="yashhadade" />
-//</p>
+
