@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color: white;">Hi 👋, I'm Yash Hadade</h1>
-<h3 align="center" style="color: white;">A passionate Frontend Developer</h3>
+<h3 align="center" style="color: white;">A passionate Fullstack Developer</h3>
 
 <p align="left" style="color: white;"> 
   <img src="https://komarev.com/ghpvc/?username=yashhadade&label=Profile%20views&color=0e75b6&style=flat" alt="yashhadade" /> 
@@ -23,9 +23,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🔭 I’m currently working on **ERP**
-- 🌱 I’m currently learning **React.js, Spring Boot**
-- 💬 Ask me about **JavaScript, Java, HTML, CSS, MySQL**
+- 🌱 I’m currently learning **System Design,AWS**
+- 💬 Ask me about **JavaScript, Java, HTML, CSS, MySQL,React.js,node.js,Mongodb,Express.js,Next.js**
 - 📫 How to reach me: **yashhadade613@gmail.com**
 
 <h3 align="left" style="color: white;">Connect with me:</h3>
